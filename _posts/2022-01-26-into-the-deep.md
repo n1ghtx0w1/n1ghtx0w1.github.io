@@ -1,0 +1,40 @@
+---
+title: Into the Deep
+author:
+  name: Robert Head
+  link: https://github.com/n1ghtx0w1
+date: 2022-01-27 08:55:00 +0800
+categories: [Blogging, Education]
+tags: [new year, goals, into the Deep]
+pin: true
+---
+
+## The Start of 2022
+
+I wanted to make sure that this year was unlike any others, and here we are!  I started this, blog type site, so that I may focus more on the following:
+
+- Notes
+- Writeups
+- Walkthroughs
+- Organization
+
+## Encouraging
+
+I knew when I started down this path it wouldn’t be easy, encouraged, by the knowledge that I obtain.  Some of you may know that I started back into school recently, and that decision led me into a fantastic “Cyber Club”.  I’ve been learning a lot from everyone, and figured it was a good time to start documenting my education further with this site.
+
+## Life
+
+Aside from being a member of the cyber club, there is still work, family life, and then my hobbies.  The CTF (capture the flag) platforms.  I still work with friend(s) on those platforms, as I learn, and hope to better document everything.  It’s been an urgent mission to get better at taking notes, and doing my own CTF writeups.
+
+## Get Better
+
+Then, there is always the desire to become better with code.  I wanted to be a developer as a tennager, but focused my attention towards another career.  Well, I am back! I want to go `deeper` than I ever have with multiple programming languages; however, I’m going to start with focusing on just one primary language.  I’ll probably write a blog about that when the time comes.
+
+```console
+$ python3 golang ruby 
+```
+
+## Let's Go!
+
+Anyway, these are some of the things that I look forward to in 2022.  I’ll utilize my [github](https://github.com/n1ghtx0w1) now to track my progress, and express myself more.  I’m using a kanban board with my fellow classmates `#accountability`, and intend to continue using everything in my arsenal to accomplish my goals going forward. 
+

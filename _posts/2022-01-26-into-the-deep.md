@@ -20,7 +20,7 @@ I wanted to make sure that this year was unlike any others, and here we are!  I 
 
 ## Encouraging
 
-I knew when I started down this path it wouldn’t be easy, encouraged, by the knowledge that I obtain.  Some of you may know that I started back into school recently, and that decision led me into a fantastic “Cyber Club”.  I’ve been learning a lot from everyone, and figured it was a good time to start documenting my education further with this site.
+I knew when I started down this path it wouldn’t be easy, encouraged, by the knowledge that I obtain.  Some of you may know that I started back into school recently, and that decision led me into a fantastic “Cyber Club”.  I’ve been learning a lot from everyone, and figured it was a good time to start documenting my education further.
 
 ## Life
 

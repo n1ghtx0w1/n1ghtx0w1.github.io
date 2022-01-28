@@ -1,17 +1,20 @@
 ---
-title: Into the Deep
+title: Into 2022
 author:
   name: Robert Head
   link: https://github.com/n1ghtx0w1
-date: 2022-01-27 08:55:00 +0800
+date: 2022-01-27 08:55:00 -0600
 categories: [Blogging, Education]
 tags: [new year, goals, into the Deep]
+image:
+  src: https://spaceflightnow.com/wp-content/uploads/2020/05/0e34d218cdf1b1b09883c239672848cb-2.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: image alternative text
 pin: true
 ---
 
-## The Start of 2022
-
-I wanted to make sure that this year was unlike any others, and here we are!  I started this, blog type site, so that I may focus more on the following:
+I wanted to make sure that this year was unlike any other, and here we are!  I started this, blog type site, so that I'd focus more on the following:
 
 - Notes
 - Writeups

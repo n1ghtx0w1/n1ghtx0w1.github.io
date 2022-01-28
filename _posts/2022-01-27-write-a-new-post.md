@@ -16,6 +16,8 @@ pin: true
 render_with_liquid: false
 ---
 
+The ITIL (Information Technology Infrastructure Library) is a framework designed to standardize the selection, planning, delivery, maintenance, and overall lifecycle of IT (information technology) services within a business. The goal is to improve efficiency and achieve predictable service delivery.
+
 Below I will layout some of my notes, but first I wanted to thank my course instructor for the Pluralsight tests, my mentor for keeping on me, and the `accountability` group from the `Cyber Security Club` for keeping me on task.  
 
 ## [ITIL4 Foundation Certification](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation) 

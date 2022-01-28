@@ -23,7 +23,7 @@ title: attacktheosi                       # the main title
 tagline: WGU BCSIA Student | CTF Player   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog type github page to post notes, writeups, 
+  A blog type github page to post notes, write-ups, 
   CTF, Hackthebox, Tryhackme, NCL, and NICE challenge walkthroughs.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'

@@ -23,9 +23,8 @@ title: attacktheosi                       # the main title
 tagline: WGU BCSIA Student | CTF Player   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Robert Head, aka n1ghtx0w1 and/or attacktheosi,
-  ctf, hackthebox, tryhackme, ncl, ccdc, nice
-  challenge walkthroughs.
+  A blog type github page to post notes, writeups, 
+  CTF, Hackthebox, Tryhackme, NCL, and NICE challenge walkthroughs.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://n1ghtx0w1.github.io/'

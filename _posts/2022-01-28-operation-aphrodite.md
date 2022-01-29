@@ -4,7 +4,7 @@ author:
   name: Robert Head
   link: https://github.com/n1ghtx0w1
 date: 2022-01-28 09:00:00 -0600
-categories: [Pentest, Hacking]
+categories: [Redteam, Pentest]
 tags: [ctf, hacking, infosec, cybersec, kali linux, tools, scripting, priv esc, recon]
 image:
   src: https://facts.net/wp-content/uploads/2020/07/human-statue-under-clear-sky-1251720-730x486.jpg

@@ -5,7 +5,7 @@ I was studying ITIL 4 for school, when I thought to myself, how cool would it be
 
 I used the Chirpy Jekyll theme as documented below.  https://n1ghtx0w1.github.io/
 
-![Desktop View](assets/img/n1blog.png){: w="700" h="400" }{: .shadow }
+![Desktop View](assets/img/n1blog.png)
 
 
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]

@@ -10,10 +10,10 @@ image:
   src: https://facts.net/wp-content/uploads/2020/07/human-statue-under-clear-sky-1251720-730x486.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: Aphrodite
+  alt: Op Aphrodite
 ---
 
-**Operation Aphrodite** is simply a repository, for myself, to list out some of the tools that I love using.  It's possible that others may find the resource useful as well. 
+**Operation Aphrodite** is my effort to build a repository, for myself, to list out some of the tools that I love using.    
 
 `Disclaimer` *this project is not complete, may never be, but will be continually updated.  The tools and information found here should only be used for educational purposes where permission has been granted.*
 

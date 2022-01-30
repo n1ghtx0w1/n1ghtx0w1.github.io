@@ -5,10 +5,10 @@ order: 4
 ---
 
 **Robert Head**
-- I'm a student at WGU studying Cybersecurity and Information Assurance.
-- Work full time for a public safety software company
-- I Enjoy CTF platforms Tryhackme, Hackthebox, CTFTime, and more 
-- Love learning and writing code
+- I'm a WGU student in the BCSIA degree plan *(Cyber Security Information and Assurance)*
+- Working full-time for a public safety software company
+- Hobbies include CTF platforms such as Tryhackme, Hackthebox, CTFTime, and blue team labs like ImmersiveLabs and NICE Challenges
+- Love learning and writing code / scripting
 
 **Connect with me**
 - Email: [attacktheosi@gmail.com](mailto:attacktheosi@gmail.com)

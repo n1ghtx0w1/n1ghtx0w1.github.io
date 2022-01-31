@@ -3,6 +3,8 @@
 
 I was studying ITIL 4 for school, when I thought to myself, how cool would it be to just start a blog style gh-page to make studying interactive.  That's what I did, as you can see :)
 
+Vist completed project:  https://roberthead.blog
+
 I used the Chirpy Jekyll theme as documented below.  https://n1ghtx0w1.github.io/
 
 ![Desktop View](assets/img/n1blog.png)

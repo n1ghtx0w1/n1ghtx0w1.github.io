@@ -19,26 +19,35 @@ image:
 
 ---
 
-Vuln Assesment:
+**Tools, Scripts, and Resources**
 - NMAP cheat sheet [jasonniebauer](https://github.com/jasonniebauer/Nmap-Cheatsheet)
 
 - Nikto cheat sheet [comparitech](https://cdn.comparitech.com/wp-content/uploads/2019/07/NIkto-Cheat-Sheet.pdf)
 
 - Directory busting [Gobuster](https://github.com/OJ/gobuster)
 
+- Subdomain enumeration [Sublist3r](https://github.com/aboul3la/Sublist3r)
+
 - Wordpress Scan [WPScan](https://github.com/wpscanteam/wpscan/wiki/WPScan-User-Documentation)
 
 - Wordlists [SecLists](https://github.com/danielmiessler/SecLists)
-
-Priveladge Escalation:
 
 - Linux PrivEsc [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
 - Windows PrivEsc [swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
 
-Web App Proxy Tools:
+- PrivEsc Scripts winPEAS & linPEAS [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
 
-Burp Suite [Community](https://portswigger.net/burp/releases/professional-community-2021-12-1?requestededition=community) Learn with [Academy](https://portswigger.net/web-security)
+- Active Directory enumeration [Bloodhound](https://bloodhound.readthedocs.io/en/latest/installation/linux.html)
 
-Owasp [Zap](https://owasp.org/www-project-zap/) Learn with [Zap in 10](https://www.zaproxy.org/zap-in-ten/)
+- Scripts that manipulate network protocols [Impacket](https://github.com/SecureAuthCorp/impacket)
 
+- Password recovery with [Hashcat](https://hashcat.net/hashcat/)
+
+- Password security auditing with [John the Ripper](https://www.openwall.com/john/)
+
+- Burp Suite [Community](https://portswigger.net/burp/releases/professional-community-2021-12-1?requestededition=community) Learn with [Academy](https://portswigger.net/web-security)
+
+- Owasp [Zap](https://owasp.org/www-project-zap/) Learn with [Zap in 10](https://www.zaproxy.org/zap-in-ten/)
+
+- Web app fuzzing with [Wfuzz](https://github.com/xmendez/wfuzz)

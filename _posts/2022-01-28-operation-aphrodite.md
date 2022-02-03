@@ -30,13 +30,23 @@ image:
 
 - Wordpress Scan [WPScan](https://github.com/wpscanteam/wpscan/wiki/WPScan-User-Documentation)
 
+- Automate the process of detecting and exploiting SQL Injection [sqlmap](https://sqlmap.org/)
+
+- Pentest framework used to test vulnerabilities [Metasploit](https://www.metasploit.com/)
+
 - Wordlists [SecLists](https://github.com/danielmiessler/SecLists)
 
 - Linux PrivEsc [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
+- Living Off the Land Binaries, Scripts, and Libraries [LOLBAS](https://lolbas-project.github.io/#)
+
+- Windows AD cheat sheet [WADComs](https://wadcoms.github.io/)
+
 - Windows PrivEsc [swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
 
 - PrivEsc Scripts winPEAS & linPEAS [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
+
+- Abusing Unix binaries [GTFOBins](https://gtfobins.github.io/)
 
 - Active Directory enumeration [Bloodhound](https://bloodhound.readthedocs.io/en/latest/installation/linux.html)
 
@@ -51,3 +61,7 @@ image:
 - Owasp [Zap](https://owasp.org/www-project-zap/) Learn with [Zap in 10](https://www.zaproxy.org/zap-in-ten/)
 
 - Web app fuzzing with [Wfuzz](https://github.com/xmendez/wfuzz)
+
+- Protocol analyzer [Wireshark](https://www.wireshark.org/)
+
+- WIFI network security suite [Aircrack-NG](https://www.aircrack-ng.org/)

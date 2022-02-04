@@ -11,8 +11,8 @@ order: 4
 - Love learning and writing code / scripting
 
 **Connect with me**
+
 - Email: [attacktheosi@gmail.com](mailto:attacktheosi@gmail.com)
 - Tryhackme: [Tryhackme](https://tryhackme.com/p/attacktheosi)
 - Hackthebox: [HackTheBox](https://app.hackthebox.com/profile/203937)
-
 

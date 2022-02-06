@@ -7,7 +7,7 @@ order: 4
 **Robert Head**
 - I'm a WGU student in the BCSIA degree plan *(Cyber Security Information and Assurance)*
 - Working full-time for a public safety software company
-- Hobbies include CTF platforms such as Tryhackme, Hackthebox, CTFTime, and blue team labs like ImmersiveLabs, NICE Challenges, and the NCL
+- Hobbies include advanced learning on Tryhackme, Hackthebox, CTFTime, ImmersiveLabs, doing NICE Challenges, and the NCL
 - Love learning and writing code / scripting
 
 **Connect with me**

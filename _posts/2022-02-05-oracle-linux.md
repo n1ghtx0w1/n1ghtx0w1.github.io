@@ -7,7 +7,7 @@ date: 2022-02-05 21:00:00 -0600
 categories: [Education, Linux]
 tags: [getting started with oracle linux, oracle, linux, virtualbox, vm, iso, download, install, setup, learn]
 image:
-  src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L22k5bcWLXxB9bp446P1u3oCoxIAZj63urWqAOvr2_Q0yW9u1OTBHsX-269NnMP_cQc&usqp=CAU
+  src: https://devclass.com/wp-content/uploads/2018/12/Oracle.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Oracle Linux

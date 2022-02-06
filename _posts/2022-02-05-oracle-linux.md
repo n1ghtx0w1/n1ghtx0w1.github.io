@@ -547,5 +547,5 @@ Oracle Linux provides **Getting Started Videos**. This content can later be foun
 [Oracle]: https://www.oracle.com/linux/
 [ISO Download]: https://yum.oracle.com/oracle-linux-isos.html
 [Virtualbox Download]: https://www.virtualbox.org/wiki/Downloads
-[email]: attacktheosi@gmail.com
+[email]: mailto:attacktheosi@gmail.com
 

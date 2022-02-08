@@ -20,7 +20,7 @@ I was looking to create a blog style web page, and get accustomed to using Githu
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/blog-learning/main/img/github-blog1.png" alt="google search" width="400" height="200">
 
  
-I began with the [Jekyll](https://jekyllrb.com/docs/installation/) documentation. Then I started into youtube videos. I’ll list some of the videos at the end of this article. Those videos led me to a resource that listed out Jekyll themes [jekyllthemes.org](http://jekyllthemes.org/themes/jekyll-theme-chirpy/), and Chirpy stood out to me. I began to mess with Chirpy by following the [Jekyll Theme Chirpy Starter], and again going over the [Jekyll](https://jekyllrb.com/docs/installation/) documentation a second time.
+I began with the [Jekyll](https://jekyllrb.com/docs/installation/) documentation. Then I started into youtube videos. I’ll list some of the videos at the end of this article. Those videos led me to a resource that listed out Jekyll themes [jekyllthemes.org](http://jekyllthemes.org/themes/jekyll-theme-chirpy/), and Chirpy stood out to me. I began to mess with Chirpy by following the [Jekyll Theme Chirpy Starter](https://github.com/cotes2020/chirpy-starter/generate), and again going over the [Jekyll](https://jekyllrb.com/docs/installation/) documentation a second time.
  
 Really I want to emphasize [making a blog with Jekyll theme chirpy](https://www.youtube.com/watch?v=cUJ_PjfW2SE&t=1906s), because I ran into an issue.  Watching this video helped me resolve that issue. I don't recall the issue that I encountered unfortunately, but I certainly remember the video being of importance.
 

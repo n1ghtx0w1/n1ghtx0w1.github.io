@@ -13,11 +13,18 @@ image:
   alt: in flight
 ---
 
-Life really took some amazing turns in 2022.
+I had a plan going into 2022. As [Helmuth von Moltke](https://www.britannica.com/biography/Helmuth-von-Moltke) once famously wrote:
+>    Kein Operationsplan reicht mit einiger Sicherheit über das erste Zusammentreffen mit der feindlichen Hauptmacht hinaus. Nur der Laie glaubt in dem Verlauf eines Feldzuges die konsequente Durchführung eines im voraus gefaßten in allen Einzelheiten überlegten und bis ans Ende festgehaltenen, ursprünglichen Gedankens zu erblicken.
 
-In March, I started a new job, and it’s been an incredible experience! I love the team that I joined, and the projects I've been tasked. My “Intro 2022” blog post captures my attitude going into this year, and I continue to be very excited for the future. I’m also very humble, and feel very fortunate to work with such an amazing group of individuals.
+>No plan of operations extends with any certainty beyond the first encounter with the main enemy forces. Only the layman believes that in the course of a campaign he sees the consistent implementation of an original thought that has been considered in advance in every detail and retained to the end.
 
-I’ve also started to become more active with some volunteer projects. Keeping myself busy is truly a blessing. 
+What I'm trying to say is, nothing goes according to plan, but without a plan you just set yourself up for failure. 
+
+One day I will go into more detail about my past. I had to rebuild my life, and rebuild it in a way that was acceptable to my situation. Everyone has something they are dealing with in their personal life. Everyone has to figure that out, and then make the best of their situations. My plan was to make the best of my situation.  
+
+## Career
+
+I started a new position a few months ago. It's been fantastic, and I'm very fortunate to be a part of the team. I'm learning a lot, and continuing to grow.
 
 ## WGU
 
@@ -30,4 +37,5 @@ If you’re new at WGU then I suggest looking into joining the Cyber Club. If yo
 - CCDC
 - NICE Challenges
 - NCL
-- Fore More visit [WGU Cyber Club](https://www.wgu.edu/online-it-degrees/cyber-club.html)
+
+For More visit [WGU Cyber Club](https://www.wgu.edu/online-it-degrees/cyber-club.html)

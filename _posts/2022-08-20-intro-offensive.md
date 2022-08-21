@@ -60,7 +60,7 @@ or connect to your TryHackMe vpn like i've done below using kali linux in a vm:
 ┌──(robert㉿kali)-[~] 
 └─$ cd intro-to-offensive-security
 ┌──(robert㉿kali)-[~]  
-└─$ vim notes.txt
+└─$ nano notes.txt
 
 ```
 

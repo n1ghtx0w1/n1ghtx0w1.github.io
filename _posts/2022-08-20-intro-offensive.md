@@ -113,10 +113,21 @@ A terminal, also known as the command-line, allows us to interact with a compute
 ┌──(robert㉿kali)-[~/tryhackme/intro-to-offensive-security]
 └─$ nano wordlist.txt
 ```
->if you use **nano**, in **kali**, then **ctrl+shift+v** to paste the contents
+>If you use **nano**, in **kali**, then **ctrl+shift+v** to paste the contents
 >
->then **ctrl+o** to write out and **ctrl+x** to exit the file
+>Then **ctrl+o** to write out and **ctrl+x** to exit the file
 >
+
+**If you don't have gobuster** 
+>consider using AttackBox discussed above
+>
+>The fastest way to install, if using **Kali Linux** or a **debian** based distro, would be through the package manager following the example below
+
+```shell
+┌──(robert㉿kali)-[~] 
+└─$ sudo apt install gobuster
+```
+>If you'd like more information on gobuster please visit the [OJ Reeves github repo](https://github.com/OJ/gobuster)
 
 >Now you should be able to run the following replacing `machine-ip` with the ip from the machine you were given.
 

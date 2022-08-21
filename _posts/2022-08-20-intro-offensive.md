@@ -66,13 +66,13 @@ A terminal, also known as the command-line, allows us to interact with a compute
 
 *For more information about getting started with Kali Linux in a vm visit [Kali inside VirtualBox (Guest VM)](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)*
 
->I immediately open a new browser tab and navigate to the machine's IP.
+>I immediately open a new browser tab and navigate to the machine's IP
 
 >You can find the machines IP below:
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/find-ip.png" alt="find-ip" width="600" height="300">
 
->Copy and paste into your browser to observe the **FakeBank** website.
+>Copy and paste into your browser to observe the **FakeBank** website
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/check-ip.png" alt="check-ip" width="600" height="300">
 
@@ -119,7 +119,7 @@ A terminal, also known as the command-line, allows us to interact with a compute
 >
 
 **If you don't have gobuster** 
->consider using AttackBox discussed above
+>Consider using **AttackBox** discussed above
 >
 >The fastest way to install, if using **Kali Linux** or a **debian** based distro, would be through the package manager following the example below
 
@@ -129,7 +129,7 @@ A terminal, also known as the command-line, allows us to interact with a compute
 ```
 >If you'd like more information on gobuster please visit the [OJ Reeves github repo](https://github.com/OJ/gobuster)
 
->Now you should be able to run the following replacing `machine-ip` with the ip from the machine you were given.
+>Now you should be able to run the following replacing `machine-ip` with the ip from the machine you were given
 
 ```shell
 
@@ -177,7 +177,7 @@ Transfer $2000 from the bank account 2276, to your account (account number 8881)
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/transfer-made.png" alt="bank-transfer" width="600" height="300">
 
->At this point I navigated to the bank account, machine's IP, to obtain the flag to answer the final question.
+>At this point I navigated to the bank account, machine's IP, to obtain the flag to answer the final question
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/bank-hacked.png" alt="bank-hacked" width="600" height="300">
 

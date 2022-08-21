@@ -43,7 +43,8 @@ or connect to your TryHackMe vpn:
 
 ```shell
 
-robert@kali:~$ sudo openvpn yourfile.ovpn
+┌──(robert㉿kali)-[~] 
+└─$ sudo openvpn yourfile.ovpn
 
 ```
 `Reminder:` *keep good notes!*

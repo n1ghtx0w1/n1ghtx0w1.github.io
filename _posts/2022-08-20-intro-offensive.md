@@ -39,7 +39,7 @@ A terminal, also known as the command-line, allows us to interact with a compute
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/show-split-view.png" alt="split-view" width="600" height="300">
 
-or connect to your TryHackMe vpn like i've done below using kali linux in a vm:
+>or connect to your TryHackMe vpn like i've done below using kali linux in a vm:
 
 ```shell
 
@@ -86,9 +86,7 @@ Most companies will have an admin portal page, giving their staff access to basi
 
 Type the following command into the terminal to find potentially hidden pages on FakeBank's website using GoBuster (a command-line security application).
 
-
 A terminal, also known as the command-line, allows us to interact with a computer without using a graphical user interface. On the machine, open the terminal using the Terminal icon:  
-
 
 >You'll want to use **Show Split View** to connect to the AttacBbox at this point
 

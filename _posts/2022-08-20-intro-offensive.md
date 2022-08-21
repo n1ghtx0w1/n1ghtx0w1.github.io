@@ -17,7 +17,7 @@ image:
 
 Before going into cyber security careers and what offensive security is, let's get you hacking (and yes, its legal, all exercises are fake simulations)
 
-**Your first hack**
+### Your first hack
 
 Click the "Start Machine" button. Once loaded in Split View in your browser, you will have access to a machine you'll use to hack a fake bank application called FakeBank. If you don't see the machine appear, use the blue Show Split View button on the top-right of this page.
 
@@ -29,17 +29,17 @@ We will use a command-line application called "GoBuster" to brute-force FakeBank
 
 ## Step 1
 
-**Open A Terminal**
+### Open A Terminal
 
 A terminal, also known as the command-line, allows us to interact with a computer without using a graphical user interface. On the machine, open the terminal using the Terminal icon:  
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/intro-to-offensive-security.gif" alt="start" width="600" height="300">
 
-You may use the attackbox using the **Show Split View** 
+>You may use the **AttackBox** using the **Show Split View** and if you're new to TryHackMe then I encourage you to do this. If you're new I would suggest learning more about AttackBox [here](https://help.tryhackme.com/tryhackme-attack-machine)
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/show-split-view.png" alt="split-view" width="600" height="300">
 
-or connect to your TryHackMe vpn:
+or connect to your TryHackMe vpn like i've done below using kali linux in a vm:
 
 ```shell
 
@@ -64,20 +64,23 @@ or connect to your TryHackMe vpn:
 
 ```
 
-I immediately open a new browser tab and navigate to the machine's IP
+*For more information about getting started with Kali Linux in a vm visit [Kali inside VirtualBox (Guest VM)](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)*
 
-You can find the machines IP here:
+>I immediately open a new browser tab and navigate to the machine's IP.
+
+>You can find the machines IP here:
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/find-ip.png" alt="find-ip" width="600" height="300">
 
-Copy and paste into your browser to observe the **FakeBank** website
+>Copy and paste into your browser to observe the **FakeBank** website.
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/check-ip.png" alt="check-ip" width="600" height="300">
 
+---
 
-### Step 2 
+## Step 2 
 
-**Find Hidden Website Pages**
+### Find Hidden Website Pages
 
 Most companies will have an admin portal page, giving their staff access to basic admin controls for day-to-day operations. For a bank, an employee might need to transfer money to and from client accounts. Often these pages are not made private, allowing attackers to find hidden pages that show, or give access to, admin controls or sensitive data.
 
@@ -117,7 +120,7 @@ A terminal, also known as the command-line, allows us to interact with a compute
 >then **ctrl+o** to write out and **ctrl+x** to exit the file
 >
 
-Now you should be able to run the following replacing `machine-ip` with the ip from the machine you were given
+>Now you should be able to run the following replacing `machine-ip` with the ip from the machine you were given.
 
 ```shell
 
@@ -146,13 +149,14 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 ===============================================================
 
 ```
+---
 
 ## Step 3 
-**Hack the Bank**
+### Hack the Bank 
 
 You should have found a secret bank transfer page that allows you to transfer money between accounts at the bank (/bank-transfer). Type the hidden page into the FakeBank website on the machine.
 
-I opened another tab and navigated to: **http://machine-ip/bank-transfer**
+>I opened another tab and navigated to: **http://machine-ip/bank-transfer**
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/bank-transfer.png" alt="bank-transfer" width="600" height="300">
 
@@ -160,11 +164,11 @@ This page allows an attacker to steal money from any bank account, which is a cr
 
 Transfer $2000 from the bank account 2276, to your account (account number 8881).
 
-Now go ahead and make the transfer:
+>Now go ahead and make the transfer:
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/transfer-made.png" alt="bank-transfer" width="600" height="300">
 
-At this point I navigated to the bank account, machine's IP, to obtain the flag to answer the final question.
+>At this point I navigated to the bank account, machine's IP, to obtain the flag to answer the final question.
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/bank-hacked.png" alt="bank-hacked" width="600" height="300">
 

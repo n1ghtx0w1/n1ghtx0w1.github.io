@@ -68,7 +68,7 @@ or connect to your TryHackMe vpn like i've done below using kali linux in a vm:
 
 >I immediately open a new browser tab and navigate to the machine's IP.
 
->You can find the machines IP here:
+>You can find the machines IP below:
 
 <img align="center" src="https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/find-ip.png" alt="find-ip" width="600" height="300">
 

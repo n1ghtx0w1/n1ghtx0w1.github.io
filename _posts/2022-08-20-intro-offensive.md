@@ -4,7 +4,7 @@ author:
   name: Robert Head
   link: https://github.com/n1ghtx0w1
 date: 2022-08-20 21:00:00 -0600
-categories: [TryHackMe, Writeup]
+categories: [TryHackMe, Walkthrough]
 tags: [tryhackme, thm, intro to offensive security, cybersecurity, pentest, junior pentester, red team, hacker]
 image:
   src: https://raw.githubusercontent.com/n1ghtx0w1/intro-offensive-sec/main/intro-to-offensive.png

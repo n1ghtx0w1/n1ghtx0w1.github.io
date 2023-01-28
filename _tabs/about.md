@@ -8,10 +8,13 @@ order: 4
 ┌──(robert㉿kali)-[~] 
 └─$ whoami
 ```
-I’m a line of duty injured, retired, law enforcement officer that has transitioned into tech. I still have a passion for protecting people and assets. Hacking is a hobby and I advocate learning. My learning has helped me get my mind off my medical issues so I understand how it may be helpful to others.
+I retired from law enforcement after an injury triggered a painful neurological condition called CRPS type II.  I’ve gone through the ringer with pain and treatments, and fortunately found a new start in tech.
 
-I’m a member of the WGU Cyber Security Club participating in [NCL](https://cyberskyline.com/), [NICE Challenges](https://nice-challenge.com/), [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.com/), [CTFTime](https://ctftime.org/), [ImmersiveLabs](https://www.immersivelabs.com/), and much more.
+Studying has helped me with pain and depression.  I could write a book about the past hell, but right now I’m focused on rebuilding my life.  My worst problem was losing years of my life to depression, so I’m focused on taking control and advancing down this new career path.
 
+One day I may talk more about what got me here, but for now I’m blessed to be alive.  I’m honored to work with great people.  I love who I have become.
+
+God bless
 
 **Connect with me**
 

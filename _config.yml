@@ -20,7 +20,7 @@ timezone: America/Chicago
 
 title: Robert Head                       # the main title
 
-tagline: Senior Support Engineer  # it will display as the sub-title
+tagline: Welcome to headsec.tech  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A website to post notes, write-ups, 

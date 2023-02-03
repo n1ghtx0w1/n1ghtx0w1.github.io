@@ -46,7 +46,7 @@ Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me i
 
 Over the years I've set up a lot of fun homelab projects.  I buy tech to tinker (when I was able to afford it).  I learned to step away from some biases.  An example bias being I never liked Apple phones, but I had to get one to learn iOS.  Linux looked complicated, but I had to just get in it to step away from years of Windows comfort.
 
-Learning takes time.  It can be very frustrating, and you'll need patience.  Good sleep is also a major help in figuring out issues.  There are a lot of times I go to bed thinking about something, and wake up with the solution. 
+Learning takes time.  It can be very frustrating, and you'll need patience.  Good sleep helps with figuring out issues.  There are times I go to bed thinking about something, and wake up with the solution. 
 
 ---
 

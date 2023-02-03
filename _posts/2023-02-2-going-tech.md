@@ -40,7 +40,9 @@ You have to start somewhere.  I’m not sure where you are with tech knowledge o
 
 My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 
-I started with a lot of google and youtube.  Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me into the A+, Network +, Security +, Cysa +, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  Then I pursued certifications and a degree.  I want to stress that certifications or a degree are not always required, but I had a gap in my work history that plagued me.
+I started with a lot of google and youtube. What motivated my interest in learning was haacking, and there is so much research that goes into it.  A great platform to get started today that didn't exist when I began is [Tryhackme](https://tryhackme.com/).  I started with [Vulnhub](https://www.vulnhub.com/) myself.
+
+Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me into the A+, Network +, Security +, Cysa +, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  Then I pursued certifications and a degree.  I want to stress that certifications or a degree are not always required, but I had a gap in my work history that plagued me.
 
 ### For my Public Safety, Law Enforcement, Fire/EMS Friends -
 

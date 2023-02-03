@@ -15,27 +15,34 @@ image:
    
 ## Background -
 
-I’m a disability retired police officer.  My path into tech wasn’t easy.  I could write a book about medical issues and depression.  It was hard to get back on my feet, and I’m lucky to be here today to write about it.  
+I’m a disability retired police officer.  My path into tech wasn’t easy.  It was hard to get back on my feet, and I’m lucky to be here today to write about it.  
 
-I work for Oracle as a Senior Support Engineer in the Local Government Global Business Unit, as of this writing, and I consider myself very fortunate to work with such an amazing group of people.  I also attend [WGU](https://www.wgu.edu/), and I am honored any chance I get to be active in the WGU Cyber Club.
+I consider myself very fortunate to work where I do.  I also attend [WGU](https://www.wgu.edu/), and I am honored any chance I get to be active in the WGU Cyber Club.
 
-`Important:` *If you’re suicidal please get professional help.  I cannot stress enough, and I myself have had to get help on many occasions.  You can reach out to me, but know that I am not a professional to treat or diagnose issues. Please get the help you deserve because your life is worth it! Visit [988Lifeline](https://988lifeline.org/) or dial 988 on your phone.*
+There was a lot of struggle to get where I am today.  I had to handle a lot of personal problems along the way.  I'm sure there are many great quotes to insert here, so I'll just emphasize that I understand struggle.  I had to really want to be successful again in my life or I wouldn’t be here, and that may apply to anyone else reading this.  I can absolutely relate, if changing careers is going to help you with pain or depression.  Feel free to contact me:
+
+- Email: [attacktheosi@gmail.com](mailto:attacktheosi@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robert-head-0x0)
+
+`Important:` *I take suicide and depression very seriously.  If you're struggling please get help.  Your life matters!*
 
 ---
 
 ## Getting Started -
 
-There are many ways to break into tech, and a lot of content that already details all the different ways.  My focus in this article is to help particular people get into tech.  People from Public Safety, Law Enforcement, and the Fire/EMS world.  
+There are many ways to break into tech, and a lot of content that already details all the different ways.  My focus in this article is to provide some of the information that helped me along the way.
 
 You have to start somewhere.  I’m not sure where you are with tech knowledge or where you want to go.  Start with looking at jobs, and the requirements for those jobs.  Then start down a path learning those skills utilizing free resources (Google, Youtube, and Reddit are great for this).  Depending what it is you want to learn there are also paid platforms like Udemy, Coursera, AWS Training, Oracle University, LinkedIn Learning, and so much more. 
 
 ---
 
-## How I Did It (very short version) -
+## What I Did (very short version) -
 
-My situation and your situation are different so we can’t really compare what I did to how you decide to do it, but I will give an example for context.  
+My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 
-I started with a lot of google and youtube.  Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me into the A+, Network +, Security +, Cysa +, and you get the point.  I bought them all for around $10 each, and only bought when the sales came up.  Then I pursued certifications and a degree.  I want to stress that certifications or a degree are not always required, but I had a gap in my work history that plagued me.
+I started with a lot of google and youtube.  Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me into the A+, Network +, Security +, Cysa +, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  Then I pursued certifications and a degree.  I want to stress that certifications or a degree are not always required, but I had a gap in my work history that plagued me.
+
+### For my Public Safety, Law Enforcement, Fire/EMS Friends -
 
 Recently Oracle began to develop public safety software and they offer free learning material to get started down a very rewarding cloud career path:
 
@@ -43,7 +50,7 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 ---
 
-## Material That I Recommend Starting Out With -
+## Some Material To Get Started -
 
 `Note` This list isn't complete and will be updated
 
@@ -69,7 +76,7 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 - [OverTheWire](https://overthewire.org/wargames/)
 
-**ITIL 4**
+**ITIL**
 
 - [ITIL 4](https://www.youtube.com/watch?v=HloUhMK4E6I&list=PLVzkjYR3xN1V9nlcECuygEZVlS4rj5qaf)
 
@@ -81,7 +88,7 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 **Cloud and Other Learning Platforms**
 
-- [Oracle Cloud Infrastructure Foundations 2022](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22)
+- [Oracle University](https://mylearn.oracle.com/)
 
 - [AWS Digital Certs](https://aws.amazon.com/training/digital/?cta=tctopbanner)
 

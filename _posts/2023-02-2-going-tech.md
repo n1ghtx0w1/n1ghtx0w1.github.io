@@ -89,6 +89,10 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 ---
 
+## Closing Statements -
+
+Setup home labs and tinker.  Get some old PCs from eBay to break and fix.  You have to make time to learn.  Also, take care of your health both mental and physical.  I care enough about you to sit here and write this.  Now you have to start learning! :)
+
 ```shell
 ┌──(robert㉿kali)-[~] 
 └─$ nc -lvp 1337

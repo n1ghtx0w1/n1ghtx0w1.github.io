@@ -5,7 +5,7 @@ author:
   link: https://github.com/n1ghtx0w1
 date: 2023-02-02 22:00:00 -0600
 categories: [Blog, Education]
-tags: [tech, getting started, linux, a+, network+, programming, devops, virtual machines, virtual environments, learning, educaiton, udemy, youtube, oracle, aws, coursera, linkedin learning, professor messer, jason dion, tryhackme, hackthebox, vulnhub, overthewire, terminus, colt steele, web development bootcamp, web dev, wgu, lggbu, retired police officer, public safety, fire, ems, freecodecamp]
+tags: [tech, getting started, linux, a+, network+, programming, devops, virtual machines, virtual environments, learning, educaiton, udemy, youtube, oracle, aws, coursera, linkedin learning, professor messer, jason dion, tryhackme, hackthebox, vulnhub, overthewire, terminus, colt steele, web development bootcamp, web dev, wgu, google, reddit, retired police officer, public safety, fire, ems, freecodecamp]
 image:
   src: https://media.giphy.com/media/26ufiJt5K7T5teGhW/giphy.gif
   width: 1000   # in pixels

@@ -19,7 +19,7 @@ I consider myself very fortunate to work where I do.  I also attend [WGU](https:
 
 I’m a disability retired police officer.  My path into tech wasn’t easy.  It was hard to get back on my feet, and I’m lucky to be here today to write about it.  
 
-There was a lot of struggle to get where I am today.  I had to handle a lot of personal problems along the way.  I'm sure there are many great quotes to insert here, so I'll just emphasize that I understand struggle.  I had to really want to be successful again in my life or I wouldn’t be here, and that may apply to anyone else reading this.  I can absolutely relate, if changing careers is going to help you with pain or depression.  Feel free to contact me:
+I had to handle a lot of personal problems after ending my first career.  I'm sure there are many great quotes to insert here, so I'll just emphasize that I understand struggle.  I had to really want to be successful again in my life or I wouldn’t be here, and that may apply to anyone else reading this.  I can absolutely relate, if changing careers is going to help you with pain or depression.  Feel free to contact me:
 
 - Email: [attacktheosi@gmail.com](mailto:attacktheosi@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/robert-head-0x0)

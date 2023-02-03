@@ -15,7 +15,7 @@ image:
    
 ## Background -
 
-I consider myself very fortunate to work where I do.  I also attend [WGU](https://www.wgu.edu/), and I am honored any chance I get to be active in the WGU Cyber Club.
+I consider myself very fortunate.  Not because where I am in life, but how I got there. What I had to go through to get here.  
 
 I’m a disability retired police officer.  My path into tech wasn’t easy.  It was hard to get back on my feet, and I’m lucky to be here today to write about it.  
 

@@ -44,7 +44,9 @@ I started with a lot of google and youtube. What motivated my interest in learni
 
 Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp which also led me into the A+, Network +, Security +, Cysa +, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  Then I pursued certifications and a degree.  I want to stress that certifications or a degree are not always required, but I had a gap in my work history that plagued me.
 
-Over the years I've set up a lot of fun homelab projects.  I buy tech to tinker (when I was able to afford it).  I learned to step away from some biases.  An example bias being I never liked Apple phones, but I had to get one to learn iOS.  Linux looked too complicated, but I had to just get in it.  Learning takes time.  It can be very frustrating, and you'll need patience.  Good sleep is also a major help in figuring out issues.  There are a lot of times I go to bed thinking about something, and wake up with the solution. 
+Over the years I've set up a lot of fun homelab projects.  I buy tech to tinker (when I was able to afford it).  I learned to step away from some biases.  An example bias being I never liked Apple phones, but I had to get one to learn iOS.  Linux looked complicated, but I had to just get in it to step away from years of Windows comfort.
+
+Learning takes time.  It can be very frustrating, and you'll need patience.  Good sleep is also a major help in figuring out issues.  There are a lot of times I go to bed thinking about something, and wake up with the solution. 
 
 ---
 

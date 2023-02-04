@@ -15,16 +15,7 @@ image:
    
 ## Background -
 
-I'm blessed to be where I am today.  There's always something new to learn, and so much I can do from the comfort of my own home.
-
-I’m a disability retired police officer.  My path into tech wasn’t easy.  It was hard to get back on my feet, and I’m lucky to be here today to write about it.  
-
-I had to handle a lot of personal problems after ending my law enforcement career.  I'm sure there are many great quotes to insert here, so I'll just emphasize that I understand struggle.  I had to really want to be successful again in my life or I wouldn’t be here, and that may apply to anyone else reading this.  I can absolutely relate, if changing careers is going to help you with pain or depression.  Feel free to contact me:
-
-- Email: [attacktheosi@gmail.com](mailto:attacktheosi@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robert-head-0x0)
-
-`Important:` *I take suicide and depression very seriously.  If you're struggling please get help.  Your life matters!*
+I had to handle a lot of personal problems after ending my law enforcement career.  I'm sure there are many great quotes to insert here, so I'll just emphasize that I understand struggle.  Learning has helped me cope with pain and depression, so it's my favorite thing to do.  Keeping my mind busy is the best medicine I have found.  So, that's how I got here today.  Just keeping my mind busy.
 
 ---
 

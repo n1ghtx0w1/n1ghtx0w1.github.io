@@ -25,7 +25,7 @@ You have to start somewhere.  I’m not sure where you are in your journey for t
 
 - [Indeed - Entry Level Cyber Security Remote Jobs](https://www.indeed.com/jobs?q=entry+level+cyber+security&l=remote) 
 
- Examin the requirements for the jobs you look up.  Try various job boards.  Then start down a path focused on learning those skills by utilizing free resources (Google, Youtube, and Reddit are great for this).  
+ Examin the requirements for the jobs you look up.  Try various job boards.  Then start down a path focused on learning those skills by utilizing free resources ([Google](https://www.google.com), [YouTube](https://www.youtube.com), and [Reddit](https://www.reddit.com) are great for this).  
  
  Depending what it is you want to learn there are also paid platforms like [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [AWS Training](https://aws.amazon.com/training/digital/?cta=tctopbanner), [Oracle University](https://mylearn.oracle.com/), [LinkedIn Learning](https://www.linkedin.com/learning/), and so much more. 
 
@@ -35,7 +35,7 @@ You have to start somewhere.  I’m not sure where you are in your journey for t
 
 My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 
-I started with a lot of [Google](https://www.google.com) and [youtube](https://www.youtube.com). What motivated my interest in learning was haacking, and there is a lot of research that goes into it.  A great platform to get started today that didn't exist when I began is [Tryhackme](https://tryhackme.com/).  I started with [Vulnhub](https://www.vulnhub.com/).
+I started with a lot of the above mentioned "free resources". What motivated my interest in learning was haacking, and there is a lot of research that goes into it.  A great platform to get started today that didn't exist when I began is [Tryhackme](https://tryhackme.com/).  I started with [Vulnhub](https://www.vulnhub.com/).
 
 Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp.  This came at the advice of [/r webdev](https://www.reddit.com/r/webdev/) where I found many posts suggesting this course in opposition to a coding bootcamp.  Then I got into the A+, Network+, Security+, Cysa+, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  
 

@@ -17,7 +17,17 @@ image:
 
 There are many ways to break into tech.  My focus in this article is to provide some of the information that helped me along the way.
 
-You have to start somewhere.  I’m not sure where you are with tech knowledge or where you want to go.  Start with looking at jobs, [Indeed IT Remote Jobs](https://www.indeed.com/jobs?q=IT&l=remote&from=searchOnHP&vjk=0f0b2c809b7be629), and the requirements for those jobs.  Then start down a path learning those skills utilizing free resources (Google, Youtube, and Reddit are great for this).  Depending what it is you want to learn there are also paid platforms like Udemy, Coursera, AWS Training, Oracle University, LinkedIn Learning, and so much more. 
+You have to start somewhere.  I’m not sure where you are in your journey for tech knowledge, or where you want to go.  I always suggest to start with looking at some jobs. For example:
+
+- [Indeed - IT Remote Jobs](https://www.indeed.com/jobs?q=IT&l=remote&from=search) 
+
+- [Indeed - IT Entry Level Web Dev Jobs](https://www.indeed.com/jobs?q=entry+level+web+developer&l=remote)
+
+- [Indeed - Entry Level Cyber Security Remote Jobs](https://www.indeed.com/jobs?q=entry+level+cyber+security&l=remote) 
+
+ Examin the requirements for the jobs you look up.  Try various job boards.  Then start down a path focused on learning those skills by utilizing free resources (Google, Youtube, and Reddit are great for this).  
+ 
+ Depending what it is you want to learn there are also paid platforms like [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [AWS Training](https://aws.amazon.com/training/digital/?cta=tctopbanner), [Oracle University](https://mylearn.oracle.com/), [LinkedIn Learning](https://www.linkedin.com/learning/), and so much more. 
 
 ---
 
@@ -35,7 +45,7 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 ---
 
-## Some Material To Get Started -
+## List of Noteable Learning Resources
 
 `Note` This list isn't complete and will be updated
 

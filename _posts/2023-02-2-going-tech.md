@@ -35,7 +35,7 @@ You have to start somewhere.  I’m not sure where you are in your journey for t
 
 My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 
-I started with a lot of google and youtube. What motivated my interest in learning was haacking, and there is a lot of research that goes into it.  A great platform to get started today that didn't exist when I began is [Tryhackme](https://tryhackme.com/).  I started with [Vulnhub](https://www.vulnhub.com/).
+I started with a lot of [Google](https://www.google.com) and [youtube](https://www.youtube.com). What motivated my interest in learning was haacking, and there is a lot of research that goes into it.  A great platform to get started today that didn't exist when I began is [Tryhackme](https://tryhackme.com/).  I started with [Vulnhub](https://www.vulnhub.com/).
 
 Then I moved onto Udemy for Colt Steele’s Web Dev Bootcamp.  This came at the advice of [/r webdev](https://www.reddit.com/r/webdev/) where I found many posts suggesting this course in opposition to a coding bootcamp.  Then I got into the A+, Network+, Security+, Cysa+, and you get the point.  I bought courses for around $10 each, and only bought when the sales came up.  
 
@@ -99,7 +99,7 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 ---
 
-## Closing Statements -
+## Closing Statement -
 
 Setup home labs and tinker.  Get some old PCs from eBay to break and fix.  You have to make time to learn.  Also, take care of your health both mental and physical.  I care enough about you to sit here and write this.  Now you have to start learning! :)
 

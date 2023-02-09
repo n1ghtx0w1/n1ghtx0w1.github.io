@@ -107,11 +107,23 @@ Recently Oracle began to develop public safety software and they offer free lear
 
 [Oracle Cloud Infrastructure Foundations 2022](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22)
 
+I'd also strongly suggest learning Jira Service Management, The Agile Scrum Framework, and ITIL.  I'll link to some resources on these in the future, and job searches you can do to find this type of work.
+
 ---
 
 ## Closing Statement -
 
 Getting past **HR** may require certifications and/or school.  I opted to enroll myself into [WGU](https://mbsy.co/66mVns) after a conversation with a recruiter.  I'd also make the point that most of the people I work with do not have an education; however, they have many more years of experience. Sometimes you have to go the extra mile to get what you want, and I wanted HR to pull my resume so I could get into interviews.  I’d still highly recommend learning what you can on your own before jumping onto any education platforms.  School isn’t for everyone, and WGU particularly.  Do a lot of research before you spend money.
+
+**Some of the benefits of joining [WGU](https://mbsy.co/66mVns) and the WGY Cyber Club:**
+- [CCDC](https://www.nationalccdc.org/)
+- [NICE Challenges](https://nice-challenge.com/)
+- [NCL](https://cyberskyline.com/events/ncl)
+- Tryhackme Nights
+- Hackthebox Nights
+- Job listings
+- Study groups
+
 
 Also, setup home labs and tinker.  Get some old PCs from eBay to break and fix.  You have to make time to learn.  Also, take care of your health both mental and physical.  I care enough about you to sit here and write this.  Now you have to start learning! :)
 

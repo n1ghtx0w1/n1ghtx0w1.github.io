@@ -31,7 +31,25 @@ You have to start somewhere.  I’m not sure where you are in your journey for t
 
 ---
 
-## What I Did (very short version) -
+## Switching Careers
+
+Switching careers can be tough to do.  I had a lot of emotions about this myself and it took me a long time.  My advice is that you should at least be teaching yourself another skill if you have time.  
+
+That meant I had to make adjustments in my personal life that weren’t easy.
+
+If you have **leadership skills** then there are a lot of jobs that can leverage that in IT Management.  People with this skill set may want to look at **Project +** and **ITIL** type certifications.  Customer Support Managers are compensated well, and teams are always looking for good leaders!
+
+
+- [Customer Support Manager](https://www.indeed.com/jobs?q=Customer+Support+Manager/)
+
+- [IT Project Manager](https://www.indeed.com/jobs?q=IT+Project+Manager/)
+
+
+**Remember** that you have **skills** you already bring to the table.  Try to leverage those skills if you're switching careers.
+
+---
+
+## What I Did (Very Short Version) 
 
 My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 
@@ -81,6 +99,22 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [OverTheWire](https://overthewire.org/wargames/)
 
+**Learning Cyber Security & Ethical Hacking:** *Now we're having fun and learning*
+
+- [Vulnhub](https://www.vulnhub.com/)
+
+- [Tryhackme](https://tryhackme.com/)
+
+- [John Hammond CTF Walkthroughs and Cyber](https://www.youtube.com/@_JohnHammond)
+
+- [HackTheBox](https://academy.hackthebox.com/)
+
+- [Ipsec CTF Walkthroughs and Cyber Talk](https://www.youtube.com/@ippsec)
+
+- [Blue Team Labs](https://blueteamlabs.online/)
+
+- [Immersive Labs](https://www.immersivelabs.com/)
+
 **ITIL:** *Business of IT*
 
 - [ITIL 4](https://www.youtube.com/watch?v=HloUhMK4E6I&list=PLVzkjYR3xN1V9nlcECuygEZVlS4rj5qaf)
@@ -101,7 +135,9 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [Coursera](https://www.coursera.org/)
 
-### For my Public Safety, Law Enforcement, Fire/EMS Friends -
+---
+
+### For my Public Safety, Law Enforcement, Fire/EMS Friends
 
 Recently Oracle began to develop public safety software and they offer free learning material to get started down a very rewarding cloud career path:
 
@@ -111,7 +147,7 @@ I'd also strongly suggest learning Jira Service Management, The Agile Scrum Fram
 
 ---
 
-## Closing Statement -
+## Closing Statement 
 
 Getting past **HR** may require certifications and/or school.  I opted to enroll myself into [WGU](https://mbsy.co/66mVns) after a conversation with a recruiter.  I'd also make the point that most of the people I work with do not have an education; however, they have many more years of experience. Sometimes you have to go the extra mile to get what you want, and I wanted HR to pull my resume so I could get into interviews.  I’d still highly recommend learning what you can on your own before jumping onto any education platforms.  School isn’t for everyone, and WGU particularly.  Do a lot of research before you spend money.
 
@@ -125,7 +161,7 @@ Getting past **HR** may require certifications and/or school.  I opted to enroll
 - Study groups
 
 
-Also, setup home labs and tinker.  Get some old PCs from eBay to break and fix.  You have to make time to learn.  Also, take care of your health both mental and physical.  I care enough about you to sit here and write this.  Now you have to start learning! :)
+Also, setup home labs and tinker.  Get some old PCs from eBay to break and fix.  You have to make time to learn.  Take care of your health both mental and physical.  I care enough about you to sit here and write this.  Now you have to start learning! :)
 
 ---
 

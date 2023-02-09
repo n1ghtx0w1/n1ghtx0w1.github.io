@@ -49,7 +49,7 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 `Note` This list isn't complete and will be updated
 
-**A+** *- Getting started in IT*
+**A+** *Getting started in IT*
 
 - [Professor Messer CompTIA 220-1101 A+ Training Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 
@@ -59,19 +59,19 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [Jason Dion A+ Core 2 Practice Tests](https://www.udemy.com/course/comptia-a-220-1102-core-2-practice-exams-new-for-2022/)
 
-**Network+** *-Have an IT job, but looking to advance*
+**Network+** *You're determined to know more*
 
 - [Professor Messer Network +](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
 
 - [Jason Dion CompTIA Network+ (N10-008) Full Course & Practice Exam](https://www.udemy.com/course/comptia-network-n10-008/)
 
-**Security+** *-Experienced looking to advance career*
+**Security+** *Experienced IT looking to advance career*
 
 [Professor Messer CompTIA Security+ SY0-601 Training Course ](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
 
 [Jason Dion CompTIA Security+ (SY0-601) Complete Course & Exam](https://www.udemy.com/course/securityplus/)
 
-**Learn Linux** *-Get started with linux*
+**Learn Linux:** *Become root*
 
 - [Tryhackme - Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 
@@ -81,11 +81,11 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [OverTheWire](https://overthewire.org/wargames/)
 
-**ITIL** *- Business of IT*
+**ITIL:** *Business of IT*
 
 - [ITIL 4](https://www.youtube.com/watch?v=HloUhMK4E6I&list=PLVzkjYR3xN1V9nlcECuygEZVlS4rj5qaf)
 
-**Web Dev** *- Maybe web dev or programming is your thing*
+**Web Dev:** *Maybe web development or programming is your thing*
 
 - [The Web Developer Bootcamp 2023 by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
@@ -93,7 +93,7 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [The Odin Project](https://www.theodinproject.com/)
 
-**Cloud and Other Learning Platforms** *- You like to learn*
+**Cloud and Other Learning Platforms:** *You like to learn*
 
 - [Oracle University](https://mylearn.oracle.com/)
 
@@ -115,7 +115,7 @@ I'd also strongly suggest learning Jira Service Management, The Agile Scrum Fram
 
 Getting past **HR** may require certifications and/or school.  I opted to enroll myself into [WGU](https://mbsy.co/66mVns) after a conversation with a recruiter.  I'd also make the point that most of the people I work with do not have an education; however, they have many more years of experience. Sometimes you have to go the extra mile to get what you want, and I wanted HR to pull my resume so I could get into interviews.  I’d still highly recommend learning what you can on your own before jumping onto any education platforms.  School isn’t for everyone, and WGU particularly.  Do a lot of research before you spend money.
 
-**Some of the benefits of joining [WGU](https://mbsy.co/66mVns) and the WGY Cyber Club:**
+**Some of the benefits of joining [WGU](https://mbsy.co/66mVns) and the WGU Cyber Club:**
 - [CCDC](https://www.nationalccdc.org/)
 - [NICE Challenges](https://nice-challenge.com/)
 - [NCL](https://cyberskyline.com/events/ncl)

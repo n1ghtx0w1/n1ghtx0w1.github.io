@@ -64,7 +64,7 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 ## List of Noteable Learning Resources
 
-`Note` This list isn't complete and will be updated
+`Note` This list isn't complete and will be updated.  I have experience with everything that will be listed.
 
 **A+** *Getting started in IT*
 

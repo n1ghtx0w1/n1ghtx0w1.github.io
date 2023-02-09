@@ -37,19 +37,18 @@ Switching careers can be tough to do.  I had a lot of emotions about this myself
 
 That meant I had to make adjustments in my personal life that weren’t easy.
 
-If you have **leadership skills** then there are a lot of jobs that can leverage that in IT Management.  People with this skill set may want to look at **Project +** and **ITIL** type certifications.  Customer Support Managers are compensated well, and teams are always looking for good leaders!
-
+There are a lot of jobs that can leverage **leadership skills** in IT Management.  People with this skill set may want to look at **Project +** and **ITIL** type certifications. 
 
 - [Customer Support Manager](https://www.indeed.com/jobs?q=Customer+Support+Manager/)
 
 - [IT Project Manager](https://www.indeed.com/jobs?q=IT+Project+Manager/)
 
 
-**Remember** that you have **skills** you already bring to the table.  Try to leverage those skills if you're switching careers.
+**Remember** that you have **skills** you already bring to the table.  Try to leverage those skills if you're switching careers. 
 
 ---
 
-## What I Did (Very Short Version) 
+## What I Did - *The Very Short Version* 
 
 My situation and your situation are different so we can’t really compare what I did to how you decide to do it.    
 

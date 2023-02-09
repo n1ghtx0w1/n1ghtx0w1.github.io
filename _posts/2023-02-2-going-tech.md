@@ -82,12 +82,6 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 
 - [Jason Dion CompTIA Network+ (N10-008) Full Course & Practice Exam](https://www.udemy.com/course/comptia-network-n10-008/)
 
-**Security+** *Experienced IT looking to advance career*
-
-[Professor Messer CompTIA Security+ SY0-601 Training Course ](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
-
-[Jason Dion CompTIA Security+ (SY0-601) Complete Course & Exam](https://www.udemy.com/course/securityplus/)
-
 **Learn Linux:** *Become root*
 
 - [Tryhackme - Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
@@ -113,6 +107,14 @@ Learning takes time.  It can be very frustrating, and you'll need patience.  Goo
 - [Blue Team Labs](https://blueteamlabs.online/)
 
 - [Immersive Labs](https://www.immersivelabs.com/)
+
+- [The Cyber Mentor](https://www.thecybermentor.com/)
+
+- [Professor Messer CompTIA Security+ SY0-601 Training Course ](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
+
+- [Jason Dion CompTIA Security+ (SY0-601) Complete Course & Exam](https://www.udemy.com/course/securityplus/)
+
+- [Jason Dion CompTIA CySA+ (CS0-002) Complete Course & Practice Exam](https://www.udemy.com/course/comptiacsaplus/)
 
 **ITIL:** *Business of IT*
 

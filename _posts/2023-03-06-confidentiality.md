@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity and Confidentiality
+title: Cybersecurity and Data Confidentiality
 author:
   name: Robert Head
   link: https://github.com/n1ghtx0w1
@@ -12,7 +12,7 @@ image:
   height: 400   # in pixels
   alt: Confidentiality
 ---
-   
+
 **Confidentiality** is one of the most important aspects of cybersecurity, as it ensures that sensitive information is kept private and secure. Without confidentiality, anyone could access and steal information such as financial records, personal data, and other sensitive information.
 
 **Encryption** is a powerful tool that helps to ensure confidentiality by scrambling data so that it can only be read by someone with the decryption key. This means that even if an attacker intercepts the data, they won't be able to read it without the key. Encryption is used in many different applications, including online banking, email, and messaging services.

@@ -3,9 +3,9 @@ title: Cybersecurity and Data Availability
 author:
   name: Robert Head
   link: https://github.com/n1ghtx0w1
-date: 2023-03-06 11:00:00 -0600
+date: 2023-03-07 10:00:00 -0600
 categories: [Blog, Cybersecurity]
-tags: [cybersecurity, cyber, security, computer fraud and abuse act, electronic communications privacy act, data availability, data integrity, data confidentiality, authentication, authorization, components of cybersecurity, confidentiality, privacy, security, encryption, information, sensitive data availability]
+tags: [cybersecurity, cyber, security, computer fraud and abuse act, electronic communications privacy act, data availability, data integrity, data confidentiality, authentication, authorization, components of cybersecurity, confidentiality, privacy, security, encryption, information, sensitive data availability, redundancy, backups, monitoring]
 image:
   src: https://ix-cdn.b2e5.com/images/208444/208444_c9397fdf5ed44690a766e10e5918e70d_1598288993.png
   width: 1000   # in pixels

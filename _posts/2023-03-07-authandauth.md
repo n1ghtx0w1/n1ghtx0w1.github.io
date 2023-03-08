@@ -29,7 +29,7 @@ For example, in a school setting, a teacher may have authorization to access cer
 
 ### Summary
 
-In summary, authentication is the process of verifying a user's identity, while authorization is the process of granting or denying access to resources based on that identity. Both are critical components of a comprehensive cybersecurity strategy, and understanding the differences between them is essential for protecting sensitive information and resources.
+Authentication is the process of verifying a user's identity, while authorization is the process of granting or denying access to resources based on that identity. Both are critical components of a comprehensive cybersecurity strategy, and understanding the differences between them is essential for protecting sensitive information and resources.
 
 ---
 

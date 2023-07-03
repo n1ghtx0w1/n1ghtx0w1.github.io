@@ -5,7 +5,7 @@ author:
   link: https://github.com/n1ghtx0w1
 date: 2023-07-02 19:00:00 -0500
 categories: [Blog, Cybersecurity]
-tags: [MITRE, Analyzing Vulnerability Data, Top 10 MITRE Most Dangerous Software Weaknesses]
+tags: [MITRE, Analyzing Vulnerability Data, Top 10 MITRE Most Dangerous Software Weaknesses, Significance of Out-of-bounds Write, Importance of Vulnerability Data Analysis, Hardware Weaknesses and Prevention, Recommendations for Hardening CI/CD Environments, Mitigating Exploitation Vectors, Concerns about Publicly Accessible Remote Management Interfaces]
 image:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mitre_Corporation_logo.svg/1200px-Mitre_Corporation_logo.svg.png
   width: 1000   # in pixels

@@ -5,16 +5,10 @@ order: 4
 ---
 
 ```shell
-┌──(robert㉿kali)-[~] 
+┌──(robert㉿kali)-[~]
 └─$ whoami
 ```
-I retired from law enforcement after an injury triggered a painful neurological condition called CRPS type II.  I’ve gone through the ringer with pain and treatments, and fortunately found a new start in tech.
-
-Studying has helped me with pain and depression.  I could write a book about the past hell, but right now I’m focused on rebuilding my life.  My worst problem was losing years of my life to depression, so I’m focused on taking control and advancing down this new career path.
-
-One day I may talk more about what got me here, but for now I’m blessed to be alive.  I’m honored to work with great people.  I love who I have become.
-
-God bless
+I'm just another nerd, doing nerd things, with fellow nerds :)
 
 **Connect with me**
 
